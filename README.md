@@ -58,6 +58,7 @@
 
 - [Similarweb](https://mcp.similarweb.com) — Website traffic, competitive analysis, market research.
 - [Windsor.ai](https://mcp.windsor.ai) — Marketing analytics, attribution, cross-channel data.
+- [Statsnet](https://statsnet.co/mcp) — Background check any company in the world: registration, executives, courts and finances. Repo: [https://github.com/usenetstate/statsnet-mcp](https://github.com/usenetstate/statsnet-mcp). Registry: `io.github.usenetstate/statsnet`.
 
 ## Communication
 
