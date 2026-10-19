@@ -77,6 +77,7 @@
 
 ## Finance
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local CLI and stdio MCP payments on macOS; signing requires foreground owner approval.
 - [Stripe](https://github.com/stripe/agent-toolkit) — Payments, subscriptions, invoicing.
 
 ## Automation
